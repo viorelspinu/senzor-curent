@@ -1,0 +1,1 @@
+# senzor-curent
